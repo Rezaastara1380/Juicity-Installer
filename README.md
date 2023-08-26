@@ -5,7 +5,14 @@
 Always activate "Allow Insecure" on the client when using the provided share link!
 
 
-# 🚀 Quick Start
+# 🚀 Quick Start Rezaastara1380
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/Rezaastara1380/Juicity-Installer/main/juicity-installer.sh)
+
+```
+
+# 🚀 Quick Start deathline94
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installer/main/juicity-installer.sh)
